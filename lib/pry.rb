@@ -143,3 +143,5 @@ require 'pry/commands/watch_expression/expression.rb'
 
 require 'pry/commands/whereami'
 require 'pry/commands/wtf'
+
+Pry.load_rc_files
